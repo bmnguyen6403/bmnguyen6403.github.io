@@ -48,5 +48,4 @@ I want to work as an actuary in the future, and after getting enough money and e
 I enjoy playing poker and chess. I have a very high elo in chess
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
