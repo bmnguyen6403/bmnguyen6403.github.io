@@ -18,7 +18,6 @@ I am an awesome student at Lehigh, you should hire me!
 
 _**[Natural language processing 10-Ks to identify risks](https://github.com/LeDataSciFi/asgn-05-bmnguyen6403)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
 <img src="images/Report Midterm.png?raw=true"/>
 
@@ -26,9 +25,8 @@ You can show off your midterm analysis by moving the report components and outpu
 
 _**[Regression Practice](Regression_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Regression.png?raw=true"/>
 
 ---
 
