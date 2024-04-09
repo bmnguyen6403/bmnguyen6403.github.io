@@ -1,8 +1,9 @@
 ## About Me
 
-What's up? hey\|you
+What's up? I'm Minh Nguyen
 
-I am an awesome student at Lehigh, you should hire me!
+I'm a rising senior in Lehigh University, double majoring in Finance & Business Analytics
+I'm also minoring in Actuarial Science!
 
 <!-- Upload your own photo and change the path -->
 
