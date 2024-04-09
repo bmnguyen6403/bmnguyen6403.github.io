@@ -20,7 +20,7 @@ _**[Natural language processing 10-Ks to identify risks](https://github.com/LeDa
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Report Midterm.png?raw=true"/>
 
 ---
 
