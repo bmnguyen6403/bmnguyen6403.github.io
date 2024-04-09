@@ -36,7 +36,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Some personal project](https://sites.google.com/d/19tLj_pYjf_Uv5KqatWAPAxm3lYEVq9UB/p/1WYaAfpQ12BAg18gA07bFoyjgVmJ_Ejdh/edit?pli=1)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
